@@ -1,0 +1,12 @@
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc

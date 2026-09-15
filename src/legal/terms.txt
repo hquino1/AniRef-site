@@ -1,0 +1,303 @@
+TERMS OF USE
+Last updated 9/15/2026
+
+
+These Terms of Use ("Terms") are an agreement between you and AniRef ("AniRef," "we," "us," or "our"). They cover your use of the AniRef mobile application and any related services that link to these Terms (together, the "Services").
+
+By creating an account or using the Services, you agree to these Terms. If you do not agree, do not use the Services.
+
+Our Privacy Notice explains how we collect and use personal information, and is part of these Terms: https://hquino1.github.io/AniRef-site/privacy.html
+
+Questions? Contact us at app.aniref@gmail.com.
+
+
+SUMMARY OF KEY POINTS
+
+This summary covers the main points. The full Terms below control.
+
+  - Your drawings are yours. You keep all rights to what you draw, including the right to sell it.
+  - Your uploads stay private. Photos you add are stored in your account and shown only to you. We do not publish them, sell them, or use them in our marketing.
+  - Only upload what you have the right to use. If you save someone else's image and add it to AniRef, you are responsible for having the right to do so.
+  - Reference images belong to their creators. Images from Pexels, Unsplash, Pinterest, DeviantArt, or anywhere else are owned by the people who made them. Using them in AniRef does not give you any rights to them.
+  - Subscriptions renew automatically. Billing and cancellation are handled by the Apple App Store or Google Play. Deleting the app or your account does not cancel a subscription.
+  - Copyright owners can reach us. If you believe something in AniRef infringes your copyright, see "COPYRIGHT COMPLAINTS."
+
+
+TABLE OF CONTENTS
+
+1. WHO CAN USE ANIREF
+2. YOUR ACCOUNT
+3. YOUR CONTENT
+4. REFERENCE IMAGES AND THIRD-PARTY CONTENT
+5. CONNECTED ACCOUNTS
+6. SHARING
+7. SUBSCRIPTIONS AND PAYMENTS
+8. ACCEPTABLE USE
+9. COPYRIGHT COMPLAINTS
+10. OUR INTELLECTUAL PROPERTY
+11. FEEDBACK
+12. ENDING YOUR USE OF ANIREF
+13. CHANGES TO THE SERVICES AND THESE TERMS
+14. DISCLAIMERS
+15. LIMITATION OF LIABILITY
+16. INDEMNIFICATION
+17. GOVERNING LAW AND DISPUTES
+18. APP STORE TERMS
+19. GENERAL
+20. CONTACT US
+
+
+1. WHO CAN USE ANIREF
+
+In Short: You must be at least 18 and able to agree to these Terms.
+
+You must be at least 18 years old, or the age of majority where you live if that is higher, to use the Services. By using the Services, you confirm that you meet this requirement and that you are not barred from using the Services under any applicable law.
+
+
+2. YOUR ACCOUNT
+
+In Short: Keep your account secure and your details accurate.
+
+You can create an account with an email address and password, or by signing in with Apple or Google. You agree to give accurate information and to keep it up to date.
+
+You are responsible for keeping your login details secure and for activity that happens under your account. If you think someone has accessed your account without permission, contact us at app.aniref@gmail.com.
+
+Accounts are personal. Do not share your account or let others use it.
+
+
+3. YOUR CONTENT
+
+In Short: You own what you add and what you draw. We only use it to run AniRef for you.
+
+What counts as your content. "Your Content" means anything you add to the Services, including photos you take or choose from your device to use as references, photos of your drawing attempts, entry titles, notes, and other information you save.
+
+You own your content. We do not claim ownership of Your Content. Drawings you make are yours to keep, post, sell, or use however you like, subject to any rights other people hold in the references you drew from (see Section 4).
+
+Your promises about your content. By adding content to the Services, you promise that:
+  - you own it, or you have the rights and permissions needed to add it and to let us handle it as these Terms describe;
+  - it does not infringe anyone's copyright, trademark, privacy, publicity, or other rights; and
+  - it does not break the law or Section 8 of these Terms.
+
+This matters most for reference photos. Saving an image from a website or social media app to your device does not give you the right to copy it. You are responsible for the images you choose to upload.
+
+The permission you give us. So that we can run the Services for you, you give us a worldwide, non-exclusive, royalty-free license to host, store, copy, resize, compress, format, and display Your Content, but only as needed to:
+  - show it to you in the Services;
+  - create images, cards, or files you ask for, such as share cards and data exports;
+  - keep the Services secure and working, including backups and troubleshooting; and
+  - comply with the law.
+
+This license does not let us make Your Content public, sell it, use it in advertising or marketing, or use it to train artificial intelligence models. It ends when you delete the content or your account, except for copies held for a limited time in backups, and anything we must keep to comply with the law.
+
+As our Privacy Notice explains, session recordings used to find and fix problems may capture what appears on your screen, which can include Your Content.
+
+Keep your own copies. We work to keep your content safe, but we do not guarantee it will never be lost. You can export your drawings from the app, and we recommend keeping your own copies of anything important.
+
+Removal. We may remove or disable access to any content that we reasonably believe breaks these Terms or the law, or that is the subject of a valid copyright complaint.
+
+
+4. REFERENCE IMAGES AND THIRD-PARTY CONTENT
+
+In Short: Reference images belong to the people who made them.
+
+The Services let you search and browse images from third-party sources, including Pexels, Unsplash, Pinterest, DeviantArt, and sample references included in the app ("Third-Party Content"). Third-Party Content is owned by its creators or licensors, not by AniRef and not by you.
+
+We make Third-Party Content available so you can view it and practice drawing from it. Using AniRef does not give you any license to copy, publish, or sell Third-Party Content. Where we show an artist's name or source, that is a credit, not permission to reuse the image.
+
+Different sources have different rules. For example, Pexels and Unsplash publish their own licenses, while images found on Pinterest or DeviantArt usually belong to individual artists who have not licensed them for reuse. If you want to use Third-Party Content outside AniRef, it is up to you to check the source's license and get any permission you need.
+
+Drawing from a reference is a common way to learn. However, a close copy of someone else's work can itself infringe their rights, especially if you publish or sell it. You are responsible for how you use drawings based on Third-Party Content.
+
+We do not control Third-Party Content and are not responsible for it. Third-party sources may change or remove images at any time.
+
+
+5. CONNECTED ACCOUNTS
+
+In Short: When you connect Pinterest or DeviantArt, their terms apply too.
+
+You can choose to connect a Pinterest or DeviantArt account to browse your own boards and collections in AniRef. When you do, you authorize us to access that account as needed to show you that content, as described in our Privacy Notice.
+
+Your use of those services is governed by their own terms and policies. AniRef is not affiliated with, endorsed by, or sponsored by Pinterest, DeviantArt, Pexels, Unsplash, Apple, or Google. You can revoke AniRef's access at any time in your Pinterest or DeviantArt account settings.
+
+
+6. SHARING
+
+In Short: Sharing happens through your device, and you are responsible for what you post.
+
+The Services can create share cards, such as a picture of your drawing or a summary of your practice, which you can send using your device's share options. We create these cards only when you ask. We do not post anything for you.
+
+Share cards made from a reference photo you uploaded show only your drawing, not the photo. Share cards made from a library reference may include a small copy of that reference. You are responsible for what you share and where, including making sure you have any rights needed to share Third-Party Content that appears in it.
+
+You may share share cards as they are created, including the AniRef name and logo on them. Do not edit our logo or use it in a way that suggests AniRef endorses you.
+
+
+7. SUBSCRIPTIONS AND PAYMENTS
+
+In Short: Subscriptions renew until you cancel in your App Store or Google Play settings.
+
+Free and paid plans. AniRef offers a free plan with limits and a paid subscription ("Pro") that removes or raises those limits. The features and limits of each plan are described in the app and may change over time.
+
+Billing through app stores. Subscriptions are sold and billed by the Apple App Store or Google Play (the "App Store"), using the payment method on your App Store account. The App Store's terms apply to your purchase. We do not receive your payment card details.
+
+Automatic renewal. Subscriptions renew automatically at the end of each billing period (for example, monthly or yearly) at the price then in effect, unless you cancel at least 24 hours before the current period ends. Your App Store account is charged for renewal within the 24 hours before the current period ends.
+
+Free trials. If a free trial is offered, it will turn into a paid subscription at the end of the trial unless you cancel at least 24 hours before it ends. Trial eligibility is decided by the App Store and may be limited to one per person or account.
+
+How to cancel. You can cancel only through your App Store account settings. Deleting the app or deleting your AniRef account does not cancel your subscription. After you cancel, you keep Pro until the end of the period you have already paid for.
+
+Refunds. Refunds are handled by Apple or Google under their own policies. We cannot issue refunds for App Store purchases. To request one, contact Apple or Google.
+
+Price changes. We may change subscription prices. The App Store will notify you of price changes as its rules require, and you can cancel before a new price takes effect.
+
+Taxes. Prices may include or exclude taxes depending on where you live, as shown by the App Store.
+
+
+8. ACCEPTABLE USE
+
+In Short: Use AniRef to practice drawing, not to harm others or the Services.
+
+You agree not to:
+  - upload content you do not have the right to use, or that infringes someone else's copyright, trademark, privacy, or other rights;
+  - upload content that is illegal, sexually exploits minors, or depicts real people in a sexual way without their consent;
+  - upload malware or anything designed to damage or interfere with the Services or other people's devices;
+  - access or try to access another person's account or content;
+  - get around security features, plan limits, or payment requirements;
+  - scrape, crawl, or bulk-download content from the Services, including Third-Party Content, or use automated tools to access the Services, except as the Services themselves allow;
+  - copy, modify, reverse engineer, or decompile the app, except where the law allows this despite this restriction;
+  - resell, rent, or offer the Services to others, or use them to build a competing product;
+  - overload or disrupt the Services or the systems they rely on; or
+  - use the Services in any way that breaks the law or the terms of Pinterest, DeviantArt, Pexels, Unsplash, Apple, or Google.
+
+Nothing in these Terms limits your right to post honest reviews of or opinions about AniRef.
+
+
+9. COPYRIGHT COMPLAINTS
+
+In Short: If you believe content in AniRef infringes your copyright, email us and we will look into it.
+
+We respect the rights of creators. If you believe material stored or shown through the Services infringes your copyright, email app.aniref@gmail.com with the subject line "Copyright complaint" and include:
+  1. your name and email address;
+  2. a description of the copyrighted work you believe has been infringed;
+  3. a description of the material you believe is infringing and enough information for us to locate it, such as the account or the entry involved, if known;
+  4. a statement that you have a good-faith belief that the use is not authorized by the copyright owner, its agent, or the law; and
+  5. a statement that the information in your complaint is accurate and that you are the copyright owner or authorized to act on the owner's behalf.
+
+We may not be able to act on complaints that are missing this information.
+
+What happens next. We review each complaint. If we reasonably believe the material infringes, we will remove or disable access to it and, where we can, let the user who added it know.
+
+If your content was removed. If you believe it was removed by mistake or that you had the right to use it, email us at app.aniref@gmail.com with a description of the material and why you believe it should be restored. We will review your request and may share it with the person who made the complaint.
+
+Repeat infringers. We will, in appropriate circumstances, disable or terminate the accounts of users who repeatedly infringe other people's copyrights.
+
+
+10. OUR INTELLECTUAL PROPERTY
+
+In Short: The app is ours; your content is yours.
+
+The Services, including the app's software, design, text, graphics, and the AniRef name and logo, are owned by us or our licensors and protected by intellectual property laws. Your Content and Third-Party Content are not included in this.
+
+Subject to these Terms, we give you a personal, non-exclusive, non-transferable, revocable license to download and use the app on devices you own or control, for your own use. We keep all rights not expressly given to you.
+
+
+11. FEEDBACK
+
+In Short: If you send us ideas, we can use them.
+
+If you send us suggestions, bug reports, or other feedback about the Services, you let us use that feedback for any purpose without paying you or giving you credit. This does not give us any rights to Your Content.
+
+
+12. ENDING YOUR USE OF ANIREF
+
+In Short: You can delete your account anytime. We can suspend accounts that break these Terms.
+
+You can stop using the Services at any time. You can delete your account from the More tab in the app. When you do, we delete your account and Your Content from our active systems, as described in our Privacy Notice. Remember that deleting your account does not cancel a subscription; see Section 7.
+
+We may suspend or end your access to the Services if you seriously or repeatedly break these Terms, if we must do so to comply with the law, or if your use creates a risk or legal exposure for us or others. Where reasonable, we will tell you why and give you a chance to export your content first. If we end your access without cause, we will tell you how to request a refund of any prepaid subscription time from the App Store.
+
+Sections of these Terms that by their nature should continue after your account ends will continue, including Sections 3 (the promises about your content), 4, 9, 10, 11, and 14 through 19.
+
+
+13. CHANGES TO THE SERVICES AND THESE TERMS
+
+In Short: AniRef will change over time, and so may these Terms. We will tell you about material changes.
+
+We are always improving AniRef, so we may add, change, or remove features. We may also stop offering the Services. If we plan to shut down the Services, we will try to give you reasonable notice so you can export your content.
+
+We may update these Terms from time to time. The updated version will have a new "Last updated" date. If we make material changes, we will notify you in the app or by email before they take effect. If you keep using the Services after the changes take effect, you accept the updated Terms. If you do not agree, stop using the Services, delete your account, and cancel any subscription.
+
+
+14. DISCLAIMERS
+
+THE SERVICES, THIRD-PARTY CONTENT, AND EVERYTHING AVAILABLE THROUGH THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE." TO THE FULLEST EXTENT ALLOWED BY LAW, WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+WE DO NOT PROMISE THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE, THAT YOUR CONTENT WILL NEVER BE LOST, THAT THIRD-PARTY SOURCES WILL REMAIN AVAILABLE, OR THAT THIRD-PARTY CONTENT IS ACCURATE, LAWFUL, OR LICENSED FOR ANY USE.
+
+Some places do not allow certain warranties to be disclaimed, so some of these disclaimers may not apply to you.
+
+
+15. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT ALLOWED BY LAW:
+  - WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING FROM OR RELATING TO THE SERVICES OR THESE TERMS; AND
+  - OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING FROM OR RELATING TO THE SERVICES OR THESE TERMS WILL NOT BE MORE THAN THE GREATER OF (A) THE AMOUNT YOU PAID FOR THE SERVICES IN THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR (B) FIFTY U.S. DOLLARS (US $50).
+
+These limits apply whatever the legal theory of the claim, and even if we were told such damages were possible. They do not limit liability that cannot be limited by law, such as liability for fraud, gross negligence, or intentional misconduct, or for death or personal injury caused by negligence where the law does not allow it to be limited.
+
+
+16. INDEMNIFICATION
+
+To the extent allowed by law, you agree to defend and indemnify us, and to hold us harmless, against any third-party claims, losses, and reasonable legal costs arising from (a) Your Content, (b) how you use or share Third-Party Content or share cards outside the Services, or (c) your breach of these Terms or violation of someone else's rights. We will let you know about any such claim and may choose to control its defense, in which case you agree to cooperate with us.
+
+
+17. GOVERNING LAW AND DISPUTES
+
+In Short: Contact us first. If that does not work, disputes are handled in the courts of Texas.
+
+Talk to us first. Most concerns can be resolved quickly. Before starting a legal claim, please email app.aniref@gmail.com with a description of the issue, and give us 30 days to try to resolve it informally.
+
+Governing law. These Terms are governed by the laws of the State of Texas, United States, without regard to its conflict-of-laws rules, except where federal law applies.
+
+Where claims are brought. Any claim that is not resolved informally must be brought in the state or federal courts located in Tarrant County, Texas, and you and we consent to those courts' jurisdiction. Either of us may instead bring an individual claim in small claims court where the claim qualifies. Either of us may also ask any court to stop the infringement or misuse of intellectual property.
+
+Consumers outside the United States. If you live in the European Union, the United Kingdom, or another country whose consumer laws give you the right to bring claims in your local courts or under your local law, nothing in these Terms takes away those rights.
+
+
+18. APP STORE TERMS
+
+If you downloaded the app from the Apple App Store:
+  - These Terms are between you and us only, not Apple. We, not Apple, are solely responsible for the app and its content.
+  - Your license to use the app is limited to use on Apple-branded products you own or control, as allowed by the Usage Rules in the Apple Media Services Terms and Conditions, except that the app may also be used by other accounts linked to you through Apple's Family Sharing or volume purchasing, where supported.
+  - Apple has no obligation to provide any maintenance or support for the app.
+  - If the app fails to meet any applicable warranty, you may notify Apple, and Apple may refund the purchase price of the app, if any. To the fullest extent allowed by law, Apple has no other warranty obligation for the app. Any other claims, losses, or costs caused by a failure to meet a warranty are our responsibility, to the extent these Terms do not disclaim them.
+  - We, not Apple, are responsible for addressing any claims by you or a third party relating to the app or your use of it, including product liability claims, claims that the app does not meet a legal or regulatory requirement, and claims under consumer protection, privacy, or similar laws.
+  - If a third party claims the app or your use of it infringes their intellectual property rights, we, not Apple, are responsible for investigating, defending, settling, and discharging that claim.
+  - You confirm that you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a "terrorist supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
+  - You must follow any applicable third-party terms, such as your wireless data service agreement, when using the app.
+  - Apple and its subsidiaries are third-party beneficiaries of these Terms. Once you accept these Terms, Apple will have the right to enforce them against you as a third-party beneficiary.
+
+If you downloaded the app from Google Play, Google Play's terms of service also apply to your download and purchases, and Google is not responsible for the app.
+
+
+19. GENERAL
+
+Entire agreement. These Terms and our Privacy Notice are the whole agreement between you and us about the Services.
+
+Severability. If any part of these Terms is found unenforceable, the rest stays in effect.
+
+No waiver. If we do not enforce a part of these Terms, that does not mean we give up the right to enforce it later.
+
+Assignment. You may not transfer these Terms to anyone else. We may transfer them in connection with a merger, acquisition, or sale of assets, or by operation of law.
+
+Events outside our control. We are not responsible for delays or failures caused by events outside our reasonable control, such as outages at our service providers, natural disasters, or changes in law.
+
+Electronic notices. You agree that we may send you notices electronically, in the app or by email, and that these satisfy any requirement that they be in writing.
+
+Export and sanctions. You may not use the Services in violation of U.S. export control or sanctions laws.
+
+
+20. CONTACT US
+
+If you have questions about these Terms, contact us:
+
+AniRef
+Email: app.aniref@gmail.com
